@@ -1,4 +1,3 @@
-# mirrors.sirung.org
 Right here comes plan B of mirrors.sirung.org, the new Sirung Mirror is under construction.
 
 Please visit:
